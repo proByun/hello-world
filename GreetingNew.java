@@ -7,5 +7,6 @@ public class GreetingNew
     public static void main(String[] args)
     {
         System.out.println("Hello BBBBB GoGoGo!");
+        System.out.println("Hello BBBBB GoGoGo!");
     }
 }
