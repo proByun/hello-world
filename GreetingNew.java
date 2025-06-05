@@ -9,5 +9,6 @@ public class GreetingNew
         System.out.println("Hello BBBBB GoGoGo!");
         System.out.println("Hello BBBBB GoGoGo!");
         System.out.println("Hello BBBBB GoGoGo!");
+System.out.println("Hello BBBBB GoGoGo!");
     }
 }
