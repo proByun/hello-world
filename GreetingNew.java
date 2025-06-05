@@ -6,6 +6,6 @@ public class GreetingNew
     // Prints a greeting message.
     public static void main(String[] args)
     {
-        System.out.println("Hello GoGoGo!");
+        System.out.println("Hello Byun GoGoGo!");
     }
 }
